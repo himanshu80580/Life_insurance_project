@@ -1,9 +1,5 @@
 # Life_insurance_project
 
-<p align="center">
-  <img width="300" height="250" src="![2](https://github.com/himanshu80580/Life_insurance_project/assets/139478787/3d55c67b-936c-4ddf-9413-29be48eabed7)
-">
-</p>
 
 # Project_name : MaxLife Insurance Group Project
 ## Description:
@@ -40,8 +36,9 @@
 
 ## Screen shots:
 
-                                                Home Page
-                                                
+                                           
+                                             ***Home*****
+                                   
 ![home](https://github.com/himanshu80580/Life_insurance_project/assets/139478787/4474e3be-41fb-4a4a-a2e3-6262e8449944)
 
 
