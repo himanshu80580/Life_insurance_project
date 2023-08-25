@@ -33,11 +33,11 @@
 
         #d2{
            height:716px;
-           width:580px;
+           width:636px;
             font-weight: 700;
            margin-left:60px;
             border:5px solid black;
-            border-radius:15px ;
+            border-radius:15px;
 
         }
       
@@ -226,13 +226,12 @@
         </div>
             </div><br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button1" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Submit" Width="173px" OnClick="Button1_Click" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" BackColor="#FF3300" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Clear" Width="183px" />
-        &nbsp;&nbsp;&nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button1" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Submit" Width="133px" OnClick="Button1_Click" />
+        &nbsp;
+        <asp:Button ID="Button2" runat="server" BackColor="#FF3300" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Clear" Width="122px" />
+        &nbsp;
         <asp:Button ID="Button3" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Medical History" Width="189px" OnClick="Button1_Click" PostBackUrl="~/Medical_history_page.aspx" />
-        &nbsp;<asp:Button ID="Button4" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Policy Details" Width="236px" OnClick="Button1_Click" PostBackUrl="~/Policy_details.aspx" />
+        &nbsp;<asp:Button ID="Button4" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Policy Details" Width="166px" OnClick="Button1_Click" PostBackUrl="~/Policy_details.aspx" />
         <br />
         <br />
         <div id="d1">

@@ -132,8 +132,11 @@
     <Content Include="Global.asax" />
     <Content Include="images\1.png" />
     <Content Include="images\2.png" />
+    <Content Include="images\aman.png" />
+    <Content Include="images\himanshu.png" />
     <Content Include="images\login_image.png" />
     <Content Include="images\maxlogo.svg" />
+    <Content Include="images\sudhir.png" />
     <Content Include="Medical_history_page.aspx" />
     <Content Include="Policy_details.aspx" />
     <Content Include="Product_page.aspx" />
@@ -206,6 +209,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Admin_login.aspx.cs">
       <DependentUpon>Admin_login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -228,13 +238,6 @@
       <DependentUpon>Admin_view_subproduct_page.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
-    <Compile Include="About.aspx.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="About.aspx.designer.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Artical_page.aspx.cs">
       <DependentUpon>Artical_page.aspx</DependentUpon>

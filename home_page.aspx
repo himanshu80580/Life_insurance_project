@@ -23,7 +23,7 @@
             margin:0;
             padding:0;
             box-sizing:border-box;
-            height: 125px;
+            height: 146px;
         }
        #d1{
            height:405px;
@@ -76,9 +76,10 @@
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-        <asp:Button ID="Button1" runat="server" BackColor="#FF9966" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="#333333"  Height="82px" Text="View Plans" Width="192px" BorderStyle="None" Font-Strikeout="False" OnClick="Button1_Click" />
+        <asp:Button ID="Button1" runat="server" BackColor="#FF9966" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="#333333"  Height="82px" Text="View Plans" Width="192px" BorderStyle="None" Font-Strikeout="False" OnClick="Button1_Click" PostBackUrl="~/Artical_page.aspx" />
 &nbsp;<br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br />
         <br />
         <br />
         <br />

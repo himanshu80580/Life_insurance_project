@@ -103,15 +103,18 @@
 
         </div><br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-        <asp:Button ID="Button1" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Submit" Width="173px" OnClick="Button1_Click" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" BackColor="#FF3300" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Clear" Width="183px" OnClick="Button2_Click" />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button1" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Submit" Width="125px" OnClick="Button1_Click" />
+&nbsp;<asp:Button ID="Button2" runat="server" BackColor="#FF3300" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Clear" Width="123px" OnClick="Button2_Click" />
+        &nbsp;<asp:Button ID="Button3" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Register Insured" Width="200px" OnClick="Button1_Click" PostBackUrl="~/signup_page.aspx" />
+&nbsp;<asp:Button ID="Button4" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Policy Details" Width="165px" OnClick="Button1_Click" PostBackUrl="~/Policy_details.aspx" />
         <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Register Insured" Width="236px" OnClick="Button1_Click" PostBackUrl="~/signup_page.aspx" />
-&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button4" runat="server" BackColor="#00CC66" BorderWidth="2px" Font-Bold="True" Font-Size="Larger" ForeColor="White" Height="42px" Text="Policy Details" Width="236px" OnClick="Button1_Click" PostBackUrl="~/Policy_details.aspx" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
         <br />
         <br />

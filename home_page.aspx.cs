@@ -36,12 +36,12 @@ namespace Life_insurance_project
 
         protected void LinkButton5_Click(object sender, EventArgs e)
         {
-            
+           
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Artical_page.aspx");
+           
         }
     }
 }

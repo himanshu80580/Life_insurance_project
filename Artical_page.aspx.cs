@@ -13,10 +13,6 @@ namespace Life_insurance_project
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["user"] == null)
-            {
-                Response.Redirect("home_page.aspx");
-            }
             
 
 
@@ -59,7 +55,7 @@ namespace Life_insurance_project
 
         protected void LinkButton5_Click(object sender, EventArgs e)
         {
-            Session.Abandon();
+            
             Response.Redirect("home_page.aspx");
         }
 

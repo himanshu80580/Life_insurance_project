@@ -25,12 +25,12 @@ namespace Life_insurance_project
 
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("product_page.aspx");
         }
 
         protected void LinkButton2_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("subproduct_page.aspx");
         }
 
         protected void LinkButton3_Click(object sender, EventArgs e)
